@@ -1,0 +1,19 @@
+{
+  "name": "SOYUZ_JorgeMM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch scss/custom.scss:scss/custom.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "sass": "^1.48.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
