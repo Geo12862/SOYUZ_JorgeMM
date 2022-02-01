@@ -18,7 +18,7 @@ Bootstrap
 
 - Aqui puedes ver los colores y las característias de fuente que utilizamos
 
-![Taute](https://github.com/CP0nce/TimeInn/blob/main/src/img/fonts.PNG)
+![Taute](https://github.com/Geo12862/SOYUZ_JorgeMM/tree/main/src/images/Paleta_de_colores.png)
 ![Taute](https://github.com/CP0nce/TimeInn/blob/main/src/img/paleta.PNG)
 
 ## TODO:
