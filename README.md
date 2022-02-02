@@ -26,8 +26,8 @@ Bootstrap
 
 - Aqui puedes ver los colores y las característias de fuente que utilizamos
 
-![Taute](https://github.com/Geo12862/SOYUZ_JorgeMM/tree/main/src/images/Paleta_de_colores.png)
-![Taute](https://github.com/CP0nce/TimeInn/blob/main/src/img/paleta.PNG)
+![Taute](https://github.com/Geo12862/SOYUZ_JorgeMM/blob/DevJorge/src/images/Paleta_de_colores.png?raw=true)
+![Taute]()
 
 ## TODO:
 - [ ] modificar index.html con bootstrap
