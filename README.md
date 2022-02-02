@@ -6,7 +6,15 @@ Bootstrap
 
 
 ## COMPONENTS
--
+- Header
+    - Navbar
+- Home: CSS-GRID
+    - Adding rows
+        - Carrusel
+        - Figures
+        - Carrusel
+            - Card con imagen lateral
+- Footer
 
 ## UTILITATS
 -
