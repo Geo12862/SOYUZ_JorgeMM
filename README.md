@@ -6,7 +6,15 @@ Bootstrap
 
 
 ## COMPONENTS
--
+- Header
+    - Navbar
+- Home: CSS-GRID
+    - Adding rows
+        - Carrusel
+        - Figures
+        - Carrusel
+            - Card con imagen lateral
+- Footer
 
 ## UTILITATS
 -
@@ -18,8 +26,8 @@ Bootstrap
 
 - Aqui puedes ver los colores y las característias de fuente que utilizamos
 
-![Taute](https://github.com/CP0nce/TimeInn/blob/main/src/img/fonts.PNG)
-![Taute](https://github.com/CP0nce/TimeInn/blob/main/src/img/paleta.PNG)
+![Taute](https://github.com/Geo12862/SOYUZ_JorgeMM/blob/DevJorge/src/images/Paleta_de_colores.png?raw=true)
+![Taute]()
 
 ## TODO:
 - [ ] modificar index.html con bootstrap
