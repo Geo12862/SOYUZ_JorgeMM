@@ -17,7 +17,25 @@ $secondary2: #3c0f38;
     color: rgba($color: $primary2, $alpha: 0.55);
     border-color: rgba($color: $primary2, $alpha: 0.4);
 }
+.home{
+	background-image: url(../images/bg-home.jpg);
+}
 
+/*----------------Imagenes Carrusel 1----------------------------*/
+
+.carousel-inner {
+	max-width: 35rem;
+	margin: auto;
+}
+
+.relleno {
+	padding-bottom: 1px;
+}
+
+/*-----------Carrusel 2------------------*/
+.margen {
+	margin: 60px 0px 80px 0px;
+}
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
 	margin: 0;
