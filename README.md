@@ -8,12 +8,14 @@ Bootstrap
 ## COMPONENTS
 - Header
     - Navbar
-- Home: CSS-GRID
+- Home:
     - Adding rows
         - Carrusel
         - Figures
         - Carrusel
             - Card con imagen lateral
+        - Card con figure
+        - Card header
 - Footer
 
 ## UTILITATS
@@ -24,19 +26,18 @@ Bootstrap
 
 ## PALETA Y FONTS
 
-- Aqui puedes ver los colores y las característias de fuente que utilizamos
+- Aqui puedes ver los colores que utilizamos
 
 ![Taute](https://github.com/Geo12862/SOYUZ_JorgeMM/blob/DevJorge/src/images/Paleta_de_colores.png?raw=true)
-![Taute]()
 
 ## TODO:
-- [ ] modificar index.html con bootstrap
-- [ ] modificar blog.html con bootstrap
-- [ ] Paleta de colores
-- [ ] Paleta de fuentes
+- [x] modificar index.html con bootstrap
+- [x] modificar blog.html con bootstrap
+- [x] modificar singlepost.html con bootstrap
+- [x] Paleta de colores
 - [x] Configurar bootstrap
 - [x] Configurar scss
-- [ ] Bootstrap Customize
-- [ ] Bootstrap Utilities
-- [ ] Responsive
+- [x] Bootstrap Customize
+- [x] Bootstrap Utilities
+- [x] Responsive
 
